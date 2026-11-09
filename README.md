@@ -25,7 +25,7 @@
 
 ## 🧭 The repository
 
-This is my personal collection of **72 accepted Codeforces solutions**, organised by problem rating.
+This is my personal collection of ** Codeforces solutions**, organised by problem rating.
 
 The goal is simple: keep a readable, searchable record of what I've solved, track my progress, and have a place to revisit problems when future me inevitably forgets a clever trick.
 
